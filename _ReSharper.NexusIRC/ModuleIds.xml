@@ -1,0 +1,11 @@
+<Modules>
+  <Module PersistentId="20F55D8C-7968-4653-9CC2-EC71C9DD9F3B" ModuleId="CSharpExec" />
+  <Module PersistentId="6A0DDD59-C9FC-4515-9CE5-B9373E3BDC8F" ModuleId="Ident" />
+  <Module PersistentId="FF4494E8-DAE2-49D0-83DD-080EAA39976A" ModuleId="NexusCommon" />
+  <Module PersistentId="99DBADE6-D844-44A9-8FF2-D753368357DB" ModuleId="Marco" />
+  <Module PersistentId="AFE87047-0BA9-4DC9-B3F5-89DF8D2472B5" ModuleId="CanIUse" />
+  <Module PersistentId="84E77FC2-8DAE-4ECB-BF2D-2A9BC3E4F4BE" ModuleId="IRCMessageTranslator" />
+  <Module PersistentId="3B81AA85-7DA5-42C9-8ED2-616E16F7124C" ModuleId="Bing" />
+  <Module PersistentId="FF0E3249-9966-4E84-A80A-843824A19E5A" ModuleId="Countdown" />
+  <Module PersistentId="2052AABD-759A-42D3-A227-C2F76934AC78" ModuleId="LinkIt" />
+</Modules>

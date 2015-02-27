@@ -1,0 +1,92 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:NexusBase.cs" caret="0" fromTop="0" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:NexusComponent.cs" caret="0" fromTop="0" />
+      <File id="149A7C28-C287-4087-B024-E079A3A22026/f:Program.cs" caret="205" fromTop="10" />
+      <File id="FC0523EF-29DC-4B49-9B48-37C3C30AC80A/f:SomeComponent.cs" caret="726" fromTop="30" />
+      <File id="3ACB424D-36D3-49B6-9016-80A6ADA65D33/f:NexusCore.cs" caret="1690" fromTop="30" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:ComponentLoader.cs" caret="1585" fromTop="37" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FC0523EF-29DC-4B49-9B48-37C3C30AC80A/f:SomeComponent.cs" caret="540" fromTop="10" />
+      <File id="FC0523EF-29DC-4B49-9B48-37C3C30AC80A/f:SomeComponent.cs" caret="13" fromTop="0" />
+      <File id="3ACB424D-36D3-49B6-9016-80A6ADA65D33/f:NexusCore.cs" caret="3065" fromTop="45" />
+      <File id="3ACB424D-36D3-49B6-9016-80A6ADA65D33/f:NexusCore.cs" caret="2397" fromTop="50" />
+      <File id="3ACB424D-36D3-49B6-9016-80A6ADA65D33/f:NexusCore.cs" caret="2145" fromTop="45" />
+      <File id="3ACB424D-36D3-49B6-9016-80A6ADA65D33/f:NexusCore.cs" caret="2555" fromTop="54" />
+      <File id="3ACB424D-36D3-49B6-9016-80A6ADA65D33/f:NexusCore.cs" caret="2713" fromTop="58" />
+      <File id="3ACB424D-36D3-49B6-9016-80A6ADA65D33/f:NexusCore.cs" caret="3092" fromTop="68" />
+      <File id="3ACB424D-36D3-49B6-9016-80A6ADA65D33/f:NexusCore.cs" caret="3227" fromTop="57" />
+      <File id="149A7C28-C287-4087-B024-E079A3A22026/f:Program.cs" caret="205" fromTop="10" />
+      <File id="3ACB424D-36D3-49B6-9016-80A6ADA65D33/f:NexusCore.cs" caret="589" fromTop="18" />
+      <File id="FC0523EF-29DC-4B49-9B48-37C3C30AC80A/f:SomeComponent.cs" caret="540" fromTop="21" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:ComponentLoader.cs" caret="1817" fromTop="36" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:ComponentLoader.cs" caret="2191" fromTop="46" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:ComponentLoader.cs" caret="1433" fromTop="29" />
+      <File id="FC0523EF-29DC-4B49-9B48-37C3C30AC80A/f:SomeComponent.cs" caret="86" fromTop="5" />
+      <File id="FC0523EF-29DC-4B49-9B48-37C3C30AC80A/f:SomeComponent.cs" caret="1005" fromTop="43" />
+      <File id="FC0523EF-29DC-4B49-9B48-37C3C30AC80A/f:SomeComponent.cs" caret="726" fromTop="30" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:ComponentLoader.cs" caret="1124" fromTop="20" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:ComponentLoader.cs" caret="791" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="Console`0" priority="95" />
+      <Item value="assemblyName" priority="63" />
+      <Item value="component" priority="31" />
+      <Item value="typeof" priority="63" />
+      <Item value="NexusComponent`0" priority="31" />
+      <Item value="MemberTypes`0" priority="31" />
+      <Item value="i" priority="31" />
+      <Item value="newDomain" priority="95" />
+      <Item value="appDomains" priority="31" />
+      <Item value="Debug`0" priority="31" />
+      <Item value="t" priority="31" />
+      <Item value="types" priority="31" />
+      <Item value="componentFoundAt" priority="31" />
+      <Item value="break" priority="31" />
+      <Item value="if" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="80" />
+      <Item value="ReadLine`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.NexusComponent">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain">
+      <Item value="Unload`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.AppDomain">
+      <Item value="FriendlyName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="WriteLine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

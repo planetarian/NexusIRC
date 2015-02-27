@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FF4494E8-DAE2-49D0-83DD-080EAA39976A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Nexus</RootNamespace>
+    <AssemblyName>NexusCommon</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ComponentLoader.cs" />
+    <Compile Include="IExecuteWithObject.cs" />
+    <Compile Include="Messages\IRCChannelModeEvent.cs" />
+    <Compile Include="Messages\IRCCommandEvent.cs" />
+    <Compile Include="Messages\IRCConnectedEvent.cs" />
+    <Compile Include="Messages\IRCConnectFailedEvent.cs" />
+    <Compile Include="Messages\IRCConnectingEvent.cs" />
+    <Compile Include="Messages\IRCConnectionClosedEvent.cs" />
+    <Compile Include="Messages\IRCConnectionCreatedEvent.cs" />
+    <Compile Include="Messages\IRCDataReceivedEvent.cs" />
+    <Compile Include="Messages\IRCDisconnectedEvent.cs" />
+    <Compile Include="Messages\IRCDisconnectFailedEvent.cs" />
+    <Compile Include="Messages\IRCEvent.cs" />
+    <Compile Include="IRCEventInfo.cs" />
+    <Compile Include="Messages\IRCInfoMessage.cs" />
+    <Compile Include="Messages\IRCInviteEvent.cs" />
+    <Compile Include="Messages\IRCJoinEvent.cs" />
+    <Compile Include="Messages\IRCKickEvent.cs" />
+    <Compile Include="IRCMessage.cs" />
+    <Compile Include="Messages\IRCMessageEvent.cs" />
+    <Compile Include="Messages\IRCNamesEvent.cs" />
+    <Compile Include="Messages\IRCNickEvent.cs" />
+    <Compile Include="Messages\IRCNoticeEvent.cs" />
+    <Compile Include="Messages\IRCPartEvent.cs" />
+    <Compile Include="Messages\IRCPrivmsgEvent.cs" />
+    <Compile Include="Messages\IRCQuitEvent.cs" />
+    <Compile Include="IRCUser.cs" />
+    <Compile Include="Messages\IRCUserModeEvent.cs" />
+    <Compile Include="IRCUserNamesEntry.cs" />
+    <Compile Include="IRCUserWhoEntry.cs" />
+    <Compile Include="Messages\IRCWhoEvent.cs" />
+    <Compile Include="Messages\InfoMessage.cs" />
+    <Compile Include="MessageRegistrationInfo.cs" />
+    <Compile Include="Messages\NexusComponentCrashedEvent.cs" />
+    <Compile Include="Messages\NexusEvent.cs" />
+    <Compile Include="Messages\NexusMethodExceptionEvent.cs" />
+    <Compile Include="Messages\NexusMethodNotFoundEvent.cs" />
+    <Compile Include="Messages\UserCommandEvent.cs" />
+    <Compile Include="Messages\UserMessageEvent.cs" />
+    <Compile Include="MethodDescriptor.cs" />
+    <Compile Include="MethodNotFoundException.cs" />
+    <Compile Include="TypeExtensions.cs" />
+    <Compile Include="MethodSignature.cs" />
+    <Compile Include="NexusBase.cs" />
+    <Compile Include="NexusComponent.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WeakAction.cs" />
+    <Compile Include="WeakActionGeneric.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

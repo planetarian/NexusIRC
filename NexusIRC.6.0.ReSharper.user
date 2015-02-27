@@ -1,0 +1,476 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2DC72D89-1B35-48B9-A81B-C1A6F554FAEA/f:MainView.xaml.cs" caret="0" fromTop="0" />
+      <File id="2DC72D89-1B35-48B9-A81B-C1A6F554FAEA/f:MainViewModel.cs" caret="749" fromTop="17" />
+      <File id="2DC72D89-1B35-48B9-A81B-C1A6F554FAEA/f:UI.cs" caret="1062" fromTop="39" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCDataReceivedEvent.cs" caret="0" fromTop="0" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCModeEvent.cs" caret="112" fromTop="6" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCNoticeEvent.cs" caret="112" fromTop="6" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCPrivmsgEvent.cs" caret="112" fromTop="6" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCEvent.cs" caret="317" fromTop="10" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCEventInfo.cs" caret="628" fromTop="18" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCInviteEvent.cs" caret="552" fromTop="16" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:IRCUser.cs" caret="1422" fromTop="38" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCKickEvent.cs" caret="952" fromTop="24" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCQuitEvent.cs" caret="575" fromTop="19" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCPartEvent.cs" caret="687" fromTop="21" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCJoinEvent.cs" caret="629" fromTop="22" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCNickEvent.cs" caret="640" fromTop="19" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:IRCUserNamesEntry.cs" caret="232" fromTop="9" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:IRCUserWhoEntry.cs" caret="459" fromTop="19" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCWhoEvent.cs" caret="228" fromTop="9" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/d:Messages/f:IRCNamesEvent.cs" caret="746" fromTop="23" />
+      <File id="149A7C28-C287-4087-B024-E079A3A22026/f:Program.cs" caret="928" fromTop="27" />
+      <File id="7C58A2AB-E115-46C0-B2F7-562BE72E6E88/f:ChannelTracker.cs" caret="5612" fromTop="43" />
+      <File id="FC0523EF-29DC-4B49-9B48-37C3C30AC80A/f:SomeComponent.cs" caret="988" fromTop="28" />
+      <File id="3ACB424D-36D3-49B6-9016-80A6ADA65D33/f:NexusCore.cs" caret="15240" fromTop="45" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:MethodDescriptor.cs" caret="7105" fromTop="30" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:NexusComponent.cs" caret="8507" fromTop="43" />
+      <File id="57ECD824-0EB1-4DF9-B5A5-0FCF14A9DDED/f:SomeOtherComponent.cs" caret="842" fromTop="25" />
+      <File id="84E77FC2-8DAE-4ECB-BF2D-2A9BC3E4F4BE/f:Translator.cs" caret="75" fromTop="2" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:IRC.cs" caret="1171" fromTop="16" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:Connection.cs" caret="16506" fromTop="45" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:IRCUserWhoEntry.cs" caret="436" fromTop="15" />
+      <File id="7C58A2AB-E115-46C0-B2F7-562BE72E6E88/f:ChannelTracker.cs" caret="5280" fromTop="54" />
+      <File id="7C58A2AB-E115-46C0-B2F7-562BE72E6E88/f:ChannelTracker.cs" caret="4636" fromTop="36" />
+      <File id="7C58A2AB-E115-46C0-B2F7-562BE72E6E88/f:ChannelTracker.cs" caret="3912" fromTop="29" />
+      <File id="7C58A2AB-E115-46C0-B2F7-562BE72E6E88/f:ChannelTracker.cs" caret="2365" fromTop="27" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:IRCUserWhoEntry.cs" caret="0" fromTop="0" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:IRCUserNamesEntry.cs" caret="0" fromTop="0" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:IRCUserNamesEntry.cs" caret="476" fromTop="20" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:IRCUserNamesEntry.cs" caret="87" fromTop="5" />
+      <File id="FF4494E8-DAE2-49D0-83DD-080EAA39976A/f:IRCUserNamesEntry.cs" caret="285" fromTop="11" />
+      <File id="7C58A2AB-E115-46C0-B2F7-562BE72E6E88/f:ChannelTracker.cs" caret="1615" fromTop="32" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:Connection.cs" caret="75" fromTop="2" />
+      <File id="149A7C28-C287-4087-B024-E079A3A22026/f:Program.cs" caret="308" fromTop="14" />
+      <File id="149A7C28-C287-4087-B024-E079A3A22026/f:Program.cs" caret="13" fromTop="0" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:IRC.cs" caret="1318" fromTop="34" />
+      <File id="149A7C28-C287-4087-B024-E079A3A22026/f:Program.cs" caret="928" fromTop="27" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:Connection.cs" caret="1765" fromTop="42" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:Connection.cs" caret="228" fromTop="11" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:Connection.cs" caret="1027" fromTop="18" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:Connection.cs" caret="987" fromTop="35" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:Connection.cs" caret="246" fromTop="12" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:Connection.cs" caret="2201" fromTop="40" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:Connection.cs" caret="1368" fromTop="42" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:IRC.cs" caret="8164" fromTop="61" />
+      <File id="57ECD824-0EB1-4DF9-B5A5-0FCF14A9DDED/f:SomeOtherComponent.cs" caret="842" fromTop="25" />
+      <File id="FC0523EF-29DC-4B49-9B48-37C3C30AC80A/f:SomeComponent.cs" caret="1930" fromTop="55" />
+      <File id="FC0523EF-29DC-4B49-9B48-37C3C30AC80A/f:SomeComponent.cs" caret="988" fromTop="28" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:IRC.cs" caret="1124" fromTop="21" />
+      <File id="84E77FC2-8DAE-4ECB-BF2D-2A9BC3E4F4BE/f:Translator.cs" caret="75" fromTop="2" />
+      <File id="843674DC-5498-4E95-9B0E-312D080A0195/f:Connection.cs" caret="16505" fromTop="45" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="Console`0" priority="191" />
+      <Item value="assemblyName" priority="63" />
+      <Item value="component" priority="319" />
+      <Item value="typeof" priority="63" />
+      <Item value="NexusComponent`0" priority="223" />
+      <Item value="MemberTypes`0" priority="31" />
+      <Item value="i" priority="31" />
+      <Item value="newDomain" priority="95" />
+      <Item value="appDomains" priority="31" />
+      <Item value="Debug`0" priority="127" />
+      <Item value="t" priority="31" />
+      <Item value="types" priority="31" />
+      <Item value="componentFoundAt" priority="31" />
+      <Item value="break" priority="159" />
+      <Item value="if" priority="1567" />
+      <Item value="void" priority="479" />
+      <Item value="string" priority="1407" />
+      <Item value="lock" priority="447" />
+      <Item value="_exposedMethods" priority="31" />
+      <Item value="foreach" priority="383" />
+      <Item value="KeyValuePair" priority="31" />
+      <Item value="MethodDescriptor`0" priority="63" />
+      <Item value="MemberInfo`0" priority="31" />
+      <Item value="in" priority="351" />
+      <Item value="PublicMethods" priority="31" />
+      <Item value="List" priority="127" />
+      <Item value="new" priority="1151" />
+      <Item value="excludedMethods" priority="63" />
+      <Item value="Contains`1" priority="53" />
+      <Item value="method" priority="191" />
+      <Item value="var" priority="351" />
+      <Item value="MethodDescriptor" priority="28" />
+      <Item value="componentName" priority="255" />
+      <Item value="MethodSignature`0" priority="31" />
+      <Item value="signature" priority="63" />
+      <Item value="ExposeMethod`0" priority="63" />
+      <Item value="newDescriptor" priority="31" />
+      <Item value="IRC`0" priority="127" />
+      <Item value="public" priority="895" />
+      <Item value="ExposeMethodsAs`0" priority="31" />
+      <Item value="_componentsLock" priority="63" />
+      <Item value="components" priority="255" />
+      <Item value="List&lt;string&gt;" priority="57" />
+      <Item value="componentEntry" priority="63" />
+      <Item value="toRemove" priority="159" />
+      <Item value="AppDomain`0" priority="224" />
+      <Item value="componentDomain" priority="31" />
+      <Item value="List&lt;NexusComponent&gt;" priority="29" />
+      <Item value="failedPlugins" priority="63" />
+      <Item value="UnloadComponent`0" priority="95" />
+      <Item value="private" priority="575" />
+      <Item value="componentsMarkedForRemoval" priority="63" />
+      <Item value="CleanupComponents`0" priority="31" />
+      <Item value="readonly" priority="191" />
+      <Item value="object" priority="252" />
+      <Item value="bool" priority="127" />
+      <Item value="Network`0" priority="127" />
+      <Item value="int" priority="351" />
+      <Item value="ushort" priority="63" />
+      <Item value="this" priority="95" />
+      <Item value="network" priority="223" />
+      <Item value="internal" priority="191" />
+      <Item value="currentNetwork" priority="223" />
+      <Item value="null" priority="575" />
+      <Item value="Connect`0" priority="63" />
+      <Item value="else" priority="95" />
+      <Item value="throw" priority="415" />
+      <Item value="InvalidOperationException" priority="260" />
+      <Item value="const" priority="223" />
+      <Item value="ConnectionMessagePrefix" priority="31" />
+      <Item value="irc" priority="255" />
+      <Item value="IRCMessage" priority="57" />
+      <Item value="value" priority="31" />
+      <Item value="Strings`0" priority="351" />
+      <Item value="messagename" priority="31" />
+      <Item value="DefaultNick" priority="31" />
+      <Item value="defaultNick" priority="127" />
+      <Item value="uint" priority="31" />
+      <Item value="return" priority="351" />
+      <Item value="_serversLock" priority="31" />
+      <Item value="currentServerIndex" priority="127" />
+      <Item value="currentPortIndex" priority="63" />
+      <Item value="_connectLock" priority="95" />
+      <Item value="currentAddress" priority="63" />
+      <Item value="currentPort" priority="63" />
+      <Item value="SetNetwork`0" priority="31" />
+      <Item value="_networkLock" priority="63" />
+      <Item value="ArgumentNullException" priority="28" />
+      <Item value="Queue" priority="63" />
+      <Item value="Queue&lt;string&gt;" priority="86" />
+      <Item value="messageQueue" priority="63" />
+      <Item value="highPriority" priority="160" />
+      <Item value="messageQueueHighPriority" priority="31" />
+      <Item value="data" priority="159" />
+      <Item value="Connected" priority="63" />
+      <Item value="TimeSpan`0" priority="127" />
+      <Item value="TimeSpan" priority="28" />
+      <Item value="sendDelay" priority="31" />
+      <Item value="Password" priority="31" />
+      <Item value="password" priority="63" />
+      <Item value="QueueSend`0" priority="159" />
+      <Item value="String`0" priority="63" />
+      <Item value="message" priority="639" />
+      <Item value="currentNetworkName" priority="63" />
+      <Item value="ConsoleSpecialKey`0" priority="31" />
+      <Item value="currentServerPass" priority="95" />
+      <Item value="true" priority="159" />
+      <Item value="Login`0" priority="31" />
+      <Item value="readBytes" priority="31" />
+      <Item value="Disconnect`0" priority="31" />
+      <Item value="continue" priority="31" />
+      <Item value="ManualResetEvent`0" priority="31" />
+      <Item value="ManualResetEvent" priority="28" />
+      <Item value="messageHighPriorityEvent" priority="63" />
+      <Item value="sendDelaySeconds" priority="31" />
+      <Item value="false" priority="159" />
+      <Item value="socket" priority="31" />
+      <Item value="override" priority="63" />
+      <Item value="PingPong`0" priority="63" />
+      <Item value="RegisterListener`1" priority="255" />
+      <Item value="IRCMessage`0" priority="94" />
+      <Item value="CallMethod`1" priority="63" />
+      <Item value="out" priority="63" />
+      <Item value="returnVal" priority="31" />
+      <Item value="abstract" priority="31" />
+      <Item value="SomeOtherComponent`0" priority="31" />
+      <Item value="SendMessage`1" priority="95" />
+      <Item value="s" priority="31" />
+      <Item value="sender" priority="63" />
+      <Item value="as" priority="31" />
+      <Item value="senderDomain" priority="95" />
+      <Item value="UI`0" priority="127" />
+      <Item value="Instance" priority="63" />
+      <Item value="fixed" priority="31" />
+      <Item value="Exception" priority="28" />
+      <Item value="ev" priority="1439" />
+      <Item value="m" priority="287" />
+      <Item value="switch" priority="31" />
+      <Item value="case" priority="95" />
+      <Item value="IRCMessageInfo`0" priority="26" />
+      <Item value="Dictionary" priority="63" />
+      <Item value="Dictionary&lt;int,Dictionary&lt;string,List&lt;IRCUser&gt;&gt;&gt;" priority="28" />
+      <Item value="ChannelTracker`0" priority="63" />
+      <Item value="IRCJoinEvent`0" priority="30" />
+      <Item value="IRCPartEvent`0" priority="30" />
+      <Item value="IRCKickEvent`0" priority="30" />
+      <Item value="IRCQuitEvent`0" priority="30" />
+      <Item value="IRCWhoEvent`0" priority="30" />
+      <Item value="connectionId" priority="319" />
+      <Item value="Dictionary&lt;string,List&lt;IRCUser&gt;&gt;" priority="28" />
+      <Item value="users" priority="511" />
+      <Item value="channel" priority="191" />
+      <Item value="List&lt;IRCUser&gt;" priority="28" />
+      <Item value="InitList`0" priority="127" />
+      <Item value="_usersLock" priority="95" />
+      <Item value="EventArgs`0" priority="95" />
+      <Item value="ircUser" priority="31" />
+      <Item value="using" priority="30" />
+      <Item value="System" priority="30" />
+      <Item value="Linq" priority="26" />
+      <Item value="ExposeMethods`0" priority="31" />
+      <Item value="cid" priority="191" />
+      <Item value="entry" priority="31" />
+      <Item value="IRCUser`0" priority="575" />
+      <Item value="userFormatted" priority="95" />
+      <Item value="RegexOptions`0" priority="31" />
+      <Item value="match" priority="127" />
+      <Item value="RealName" priority="31" />
+      <Item value="realName" priority="31" />
+      <Item value="Server" priority="31" />
+      <Item value="server" priority="31" />
+      <Item value="Nick" priority="31" />
+      <Item value="UserName" priority="31" />
+      <Item value="Host" priority="31" />
+      <Item value="IRCUser" priority="87" />
+      <Item value="senderFormatted" priority="31" />
+      <Item value="User" priority="159" />
+      <Item value="user" priority="351" />
+      <Item value="item" priority="95" />
+      <Item value="u" priority="159" />
+      <Item value="channelUsers" priority="31" />
+      <Item value="kicked" priority="63" />
+      <Item value="Flags" priority="31" />
+      <Item value="flags" priority="31" />
+      <Item value="outObj" priority="31" />
+      <Item value="NotImplementedException" priority="28" />
+      <Item value="IRCDataReceivedEvent`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="161" />
+      <Item value="ReadLine`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.NexusComponent">
+      <Item value="ToString`0" priority="188" />
+      <Item value="TypeName" priority="26" />
+      <Item value="AppDomain" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain">
+      <Item value="Unload`0" priority="80" />
+      <Item value="CreateDomain`0" priority="26" />
+      <Item value="CurrentDomain" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.AppDomain">
+      <Item value="FriendlyName" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="WriteLine`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Value" priority="242" />
+      <Item value="Key" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MemberInfo">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.MethodDescriptor">
+      <Item value="Signature" priority="26" />
+      <Item value="ReturnType" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.MethodSignature">
+      <Item value="MethodName" priority="53" />
+      <Item value="ParameterTypes" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MethodInfo">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="161" />
+      <Item value="IsNullOrWhiteSpace`0" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Keys" priority="26" />
+      <Item value="Values" priority="109" />
+      <Item value="ContainsValue`0" priority="26" />
+      <Item value="Remove`0" priority="107" />
+      <Item value="Add`0" priority="53" />
+      <Item value="ContainsKey`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="134" />
+      <Item value="Clear`0" priority="53" />
+      <Item value="Count" priority="53" />
+      <Item value="Contains`0" priority="26" />
+      <Item value="Find`0" priority="107" />
+      <Item value="Remove`0" priority="53" />
+      <Item value="Any`1" priority="26" />
+      <Item value="Cast`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IRC.Connection">
+      <Item value="network" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IRC.IRC">
+      <Item value="SendMessage`1" priority="53" />
+      <Item value="DefaultNick" priority="107" />
+      <Item value="DefaultUserName" priority="26" />
+      <Item value="DefaultRealName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@IRC.Strings">
+      <Item value="ConnectedMessage" priority="26" />
+      <Item value="DisconnectedMessage" priority="26" />
+      <Item value="ConnectNoNetwork" priority="27" />
+      <Item value="ConnectNoServers" priority="27" />
+      <Item value="ConnectAlreadyConnected" priority="26" />
+      <Item value="NoNetwork" priority="26" />
+      <Item value="SendNotConnected" priority="26" />
+      <Item value="SendNoData" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IRC.Network">
+      <Item value="GetServers`0" priority="107" />
+      <Item value="DefaultNick" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IRC.Server">
+      <Item value="Address" priority="26" />
+      <Item value="GetPorts`0" priority="26" />
+      <Item value="Password" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Queue`1">
+      <Item value="Enqueue`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds`0" priority="53" />
+      <Item value="FromMilliseconds`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Subtract`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.ManualResetEvent">
+      <Item value="Set`0" priority="26" />
+      <Item value="WaitOne`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Sockets.Socket">
+      <Item value="LocalEndPoint" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.Messages.IRCMessage">
+      <Item value="MessageName" priority="26" />
+      <Item value="Data" priority="26" />
+      <Item value="ConnectionId" priority="26" />
+      <Item value="Command" priority="53" />
+      <Item value="Prefix" priority="80" />
+      <Item value="Parameters" priority="53" />
+      <Item value="Trailing" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Substring`0" priority="107" />
+      <Item value="LastIndexOf`0" priority="26" />
+      <Item value="Length" priority="108" />
+      <Item value="ToLower`0" priority="80" />
+      <Item value="Contains`0" priority="80" />
+      <Item value="IndexOf`0" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UIWPF.UI">
+      <Item value="Instance" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.Messages.IRCDataReceivedEvent">
+      <Item value="Message" priority="134" />
+      <Item value="Time" priority="53" />
+      <Item value="ConnectionId" priority="53" />
+      <Item value="NetworkName" priority="53" />
+      <Item value="ServerAddress" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.Messages.IRCNickEvent">
+      <Item value="EventInfo" priority="26" />
+      <Item value="OldNick" priority="53" />
+      <Item value="NewNick" priority="26" />
+      <Item value="User" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.Messages.IRCEventInfo">
+      <Item value="ConnectionId" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.Messages.IRCJoinEvent">
+      <Item value="EventInfo" priority="26" />
+      <Item value="Channel" priority="80" />
+      <Item value="User" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.IRCUser">
+      <Item value="Nick" priority="350" />
+      <Item value="UserName" priority="26" />
+      <Item value="Host" priority="26" />
+      <Item value="RealName" priority="26" />
+      <Item value="Server" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.Messages.IRCWhoEvent">
+      <Item value="EventInfo" priority="53" />
+      <Item value="Channel" priority="80" />
+      <Item value="Entries" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.IRCUserWhoEntry">
+      <Item value="User" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.RegularExpressions.RegexOptions">
+      <Item value="Compiled" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Match">
+      <Item value="Groups" priority="107" />
+      <Item value="Success" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Group">
+      <Item value="Value" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.IRCMessage">
+      <Item value="Parameters" priority="26" />
+      <Item value="Prefix" priority="54" />
+      <Item value="Raw" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.Messages.IRCPartEvent">
+      <Item value="Channel" priority="80" />
+      <Item value="User" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.Messages.IRCKickEvent">
+      <Item value="Kicked" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Nexus.Messages.IRCQuitEvent">
+      <Item value="User" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Select`2" priority="26" />
+      <Item value="ToArray`1" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
