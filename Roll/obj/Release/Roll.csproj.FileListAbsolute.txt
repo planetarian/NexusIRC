@@ -1,5 +1,0 @@
-C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\Roll.dll
-C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\Roll.pdb
-C:\Users\Ash\OneDrive\Projects\NexusIRC\Roll\obj\Release\Roll.csprojResolveAssemblyReference.cache
-C:\Users\Ash\OneDrive\Projects\NexusIRC\Roll\obj\Release\Roll.dll
-C:\Users\Ash\OneDrive\Projects\NexusIRC\Roll\obj\Release\Roll.pdb

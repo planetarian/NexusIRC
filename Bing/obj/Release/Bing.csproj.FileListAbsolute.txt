@@ -1,5 +1,0 @@
-C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\Bing.dll
-C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\Bing.pdb
-C:\Users\Ash\OneDrive\Projects\NexusIRC\Bing\obj\Release\Bing.csprojResolveAssemblyReference.cache
-C:\Users\Ash\OneDrive\Projects\NexusIRC\Bing\obj\Release\Bing.dll
-C:\Users\Ash\OneDrive\Projects\NexusIRC\Bing\obj\Release\Bing.pdb

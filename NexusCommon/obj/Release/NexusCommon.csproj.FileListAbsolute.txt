@@ -1,5 +1,0 @@
-C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusCommon\bin\Release\NexusCommon.dll
-C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusCommon\bin\Release\NexusCommon.pdb
-C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusCommon\obj\Release\NexusCommon.csprojResolveAssemblyReference.cache
-C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusCommon\obj\Release\NexusCommon.dll
-C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusCommon\obj\Release\NexusCommon.pdb

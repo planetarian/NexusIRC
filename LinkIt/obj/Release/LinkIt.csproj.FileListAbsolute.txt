@@ -1,5 +1,0 @@
-C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\LinkIt.dll
-C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\LinkIt.pdb
-C:\Users\Ash\OneDrive\Projects\NexusIRC\LinkIt\obj\Release\LinkIt.csprojResolveAssemblyReference.cache
-C:\Users\Ash\OneDrive\Projects\NexusIRC\LinkIt\obj\Release\LinkIt.dll
-C:\Users\Ash\OneDrive\Projects\NexusIRC\LinkIt\obj\Release\LinkIt.pdb

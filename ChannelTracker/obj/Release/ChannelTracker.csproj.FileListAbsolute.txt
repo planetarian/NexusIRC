@@ -1,4 +1,0 @@
-C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\ChannelTracker.dll
-C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\ChannelTracker.pdb
-C:\Users\Ash\OneDrive\Projects\NexusIRC\ChannelTracker\obj\Release\ChannelTracker.dll
-C:\Users\Ash\OneDrive\Projects\NexusIRC\ChannelTracker\obj\Release\ChannelTracker.pdb
