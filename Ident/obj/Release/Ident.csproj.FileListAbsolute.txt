@@ -1,0 +1,4 @@
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\Ident.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\Ident.pdb
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Ident\obj\Release\Ident.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Ident\obj\Release\Ident.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\CanIUse.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\CanIUse.pdb
+C:\Users\Ash\OneDrive\Projects\NexusIRC\CanIUse\obj\Release\CanIUse.csprojResolveAssemblyReference.cache
+C:\Users\Ash\OneDrive\Projects\NexusIRC\CanIUse\obj\Release\CanIUse.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\CanIUse\obj\Release\CanIUse.pdb

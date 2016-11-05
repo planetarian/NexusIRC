@@ -1,0 +1,6 @@
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\IRC.dll.config
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\IRC.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\IRC.pdb
+C:\Users\Ash\OneDrive\Projects\NexusIRC\IRC\obj\Release\IRC.csprojResolveAssemblyReference.cache
+C:\Users\Ash\OneDrive\Projects\NexusIRC\IRC\obj\Release\IRC.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\IRC\obj\Release\IRC.pdb

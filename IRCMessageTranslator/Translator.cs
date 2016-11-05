@@ -259,7 +259,7 @@ namespace IRCMessageTranslator
         public void Say(int connectionId, string target, string message, bool highPriority)
         {
             Exception ex = CallMethod("IRC.SendRaw", connectionId,
-                String.Format("PRIVMSG {0} :{1}", target, message),
+                $"PRIVMSG {target} :{message}",
                 highPriority);
 
             if (ex != null)

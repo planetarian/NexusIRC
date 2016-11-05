@@ -1,0 +1,4 @@
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\CSharpExec.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\CSharpExec.pdb
+C:\Users\Ash\OneDrive\Projects\NexusIRC\CSharpExec\obj\Release\CSharpExec.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\CSharpExec\obj\Release\CSharpExec.pdb

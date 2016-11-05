@@ -21,7 +21,7 @@ namespace IRC
         private readonly Dictionary<int, Connection> connections
             = new Dictionary<int, Connection>();
 
-        private int nextId = 1;
+        private int _nextId = 1;
 
         private readonly object _connectionsLock = new object();
 
@@ -58,9 +58,12 @@ namespace IRC
 
         public int CreateConnection()
         {
-            var id = nextId++;
-            connections[id] = new Connection(this, id);
-            return id;
+            lock (_connectionsLock)
+            {
+                var id = _nextId++;
+                connections[id] = new Connection(this, id);
+                return id;
+            }
         }
 
         public void Connect(int connectionId)
@@ -196,9 +199,12 @@ namespace IRC
         /// <param name="message"> Message to send to components notifying of the closure. </param>
         public void CloseAllConnections(string message = null)
         {
-            foreach (var connection in connections)
-                connection.Value.CloseConnection(message);
-            connections.Clear();
+            lock (_connectionsLock)
+            {
+                foreach (KeyValuePair<int, Connection> connection in connections)
+                    connection.Value.CloseConnection(message);
+                connections.Clear();
+            }
         }
 
 

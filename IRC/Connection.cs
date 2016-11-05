@@ -113,7 +113,7 @@ namespace IRC
             lock (_networkLock)
             {
                 if (network == null)
-                    throw new ArgumentNullException("network", Strings.NoNetwork);
+                    throw new ArgumentNullException(nameof(network), Strings.NoNetwork);
 
                 if (network.ServerCount == 0)
                     throw new ArgumentException(Strings.ConnectNoServers);
@@ -222,16 +222,15 @@ namespace IRC
             string message;
             if (!String.IsNullOrWhiteSpace(CurrentServerPass))
             {
-                message = String.Format("PASS {0}", CurrentServerPass);
+                message = $"PASS {CurrentServerPass}";
                 QueueSend(message, true);
             }
 
-            message = String.Format("NICK {0}", currentNetwork.DefaultNick ?? irc.DefaultNick);
+            message = $"NICK {currentNetwork.DefaultNick ?? irc.DefaultNick}";
             QueueSend(message, true);
 
-            message = String.Format("USER {0} \"{1}\" \"{2}\" :{3}",
-                                    irc.DefaultUserName, socket.LocalEndPoint,
-                                    CurrentAddress, irc.DefaultRealName);
+            message =
+                $@"USER {irc.DefaultUserName} ""{socket.LocalEndPoint}"" ""{CurrentAddress}"" :{irc.DefaultRealName}";
             QueueSend(message, true);
         }
 

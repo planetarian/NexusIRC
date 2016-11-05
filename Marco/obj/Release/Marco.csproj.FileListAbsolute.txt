@@ -1,0 +1,5 @@
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\Marco.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\Marco.pdb
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Marco\obj\Release\Marco.csprojResolveAssemblyReference.cache
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Marco\obj\Release\Marco.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Marco\obj\Release\Marco.pdb

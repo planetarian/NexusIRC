@@ -1,0 +1,4 @@
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\NexusComponents2.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\NexusComponents2.pdb
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusComponents2\obj\Release\NexusComponents2.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusComponents2\obj\Release\NexusComponents2.pdb

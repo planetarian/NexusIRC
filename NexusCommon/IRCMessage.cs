@@ -15,8 +15,7 @@ namespace Nexus
         private const string messageRegexPattern =
             "^(:(?<prefix>[^ ]+) +)?(?<command>[^ ]+)(?<innerparams>( +[^ ]+)*?)?( +:(?<outerparams>.*))?$";
 
-        public IRCMessage(string data)
-            : this()
+        public IRCMessage(string data) : this()
         {
             Match match = Regex.Match(data, messageRegexPattern, RegexOptions.Compiled);
             if (!match.Success) throw new InvalidOperationException("IRCMessage data invalid.");

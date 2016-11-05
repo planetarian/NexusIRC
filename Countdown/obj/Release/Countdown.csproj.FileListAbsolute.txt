@@ -1,0 +1,5 @@
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\Countdown.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\Countdown.pdb
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Countdown\obj\Release\Countdown.csprojResolveAssemblyReference.cache
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Countdown\obj\Release\Countdown.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Countdown\obj\Release\Countdown.pdb

@@ -1,0 +1,13 @@
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\NexusTest.exe
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\NexusTest.pdb
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\NexusCommon.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\NexusCore.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\NexusCommon.pdb
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\NexusCore.pdb
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\obj\x86\Release\NexusTest.csprojResolveAssemblyReference.cache
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\obj\x86\Release\NexusTest.exe
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\obj\x86\Release\NexusTest.pdb
+C:\Users\awolford01\OneDrive\Projects\NexusIRC\NexusTest\obj\x86\Release\NexusTest.exe
+C:\Users\awolford01\OneDrive\Projects\NexusIRC\NexusTest\obj\x86\Release\NexusTest.pdb
+C:\Users\piro\OneDrive\Projects\NexusIRC\NexusTest\obj\x86\Release\NexusTest.exe
+C:\Users\piro\OneDrive\Projects\NexusIRC\NexusTest\obj\x86\Release\NexusTest.pdb

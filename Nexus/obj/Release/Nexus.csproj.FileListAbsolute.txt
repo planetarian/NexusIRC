@@ -1,0 +1,6 @@
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Nexus\bin\Release\NexusCore.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Nexus\bin\Release\NexusCore.pdb
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Nexus\bin\Release\NexusCommon.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Nexus\bin\Release\NexusCommon.pdb
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Nexus\obj\Release\NexusCore.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Nexus\obj\Release\NexusCore.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\Seen.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\NexusTest\bin\Release\plugins\Seen.pdb
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Seen\obj\Release\Seen.csprojResolveAssemblyReference.cache
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Seen\obj\Release\Seen.dll
+C:\Users\Ash\OneDrive\Projects\NexusIRC\Seen\obj\Release\Seen.pdb
